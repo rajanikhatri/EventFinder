@@ -12,7 +12,7 @@ Event Finder is a web application that allows users to search for events happeni
 
 ## Demo
 
-A live demo of the application can be found at [Live Demo Link](#). (Replace with actual demo link if available.)
+A live demo of the application can be found at [Live Demo Link](https://rajanikhatri.github.io/EventFinder/).
 
 
 
